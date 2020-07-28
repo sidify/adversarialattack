@@ -1,0 +1,5 @@
+# adversarialattack
+Blacklight: Defending Black-Box Adversarial Attacks on Deep Neural Networks
+While deep learning in computer vision has been able to solve problems with great accuracy, however with its advent, the computer vision applications are facing a potential and dangerous threat - adversarial attacks. The problem is not limited to the system that uses deep learning techniques, but most systems that use feature-based representation including hand-crafted features are vulnerable too. So is there any way to prevent it? To some extent yes. There have been some successful work in preventing black-box attacks, but a foolproof white-box defense scenario is yet to be seen.
+
+The following paper was published this year in CVPR. The authors have presented a system called Blacklight to prevent black-box attacks on deep nets. I have tried to summarise their work in 2 pages. Go ahead and read it. I would also suggest you to read more about adversarial attacks in case this is new to you. Comments and suggestions are welcome.
